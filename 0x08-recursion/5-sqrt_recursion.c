@@ -2,10 +2,11 @@
 
 
 /**
+ * _sqrt_helper - returns the natural square root of a number.
  * _sqrt_recursion - returns the natural square root of a number.
- * _sqrt_helper - calculates power operation
  * @n: input number
  * @guess: iterator
+ * Return: natural square root of a number.
  */
 
 /*Helper function to perform the recursive square root calculation*/
